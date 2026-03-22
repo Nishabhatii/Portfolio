@@ -26,7 +26,10 @@ This PR introduces my personal portfolio website, designed to showcase my skills
 * HTML5
 * CSS3
 * JavaScript
-
+* Angular
+* React
+* Next js
+* Typescript
 ---
 
 ### 📂 Key Highlights
